@@ -1,10 +1,11 @@
 #main-title {
     color: red;
-    font-size: 24px;
+    font-size: 29px;
 }
 
 #description {
     font-style: italic;
+    font-size: 19px;
 }
 
 #pizza-list {
@@ -18,5 +19,5 @@
 }
 
 .pizza-img {
-    width: 100px;
+    width: 190px;
 }
